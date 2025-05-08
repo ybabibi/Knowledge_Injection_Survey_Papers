@@ -72,6 +72,8 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 [2024/11] BianCang: A Traditional Chinese Medicine Large Language Model
 [[paper]](https://arxiv.org/abs/2411.11027)
 
+[2025/02] OntoTune: Ontology-Driven Self-training for Aligning Large Language Models
+[[paper]](https://arxiv.org/pdf/2502.05478)
 
 
 # Finance <a id="section2"></a>
@@ -137,6 +139,9 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 [2025/01] ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning
 [[paper]](https://arxiv.org/abs/2501.06590)
 
+[2025/03] OmniScience: A Domain-Specialized LLM for Scientific Reasoning and Discovery
+[[paper]](https://arxiv.org/pdf/2503.17604)
+
 
 # Mental Health <a id="section4"></a>
 
@@ -172,6 +177,10 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 
 [2024/10] From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution
 [[paper]](https://arxiv.org/abs/2410.19064)
+
+[2025/02] Systematic Knowledge Injection into Large Language Models via Diverse
+Augmentation for Domain-Specific RAG
+[[paper]](https://arxiv.org/pdf/2502.08356)
 
 # Code <a id="section7"></a>
 [2022/02] Competition-Level Code Generation with AlphaCode
